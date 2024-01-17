@@ -71,7 +71,7 @@ When using the `solarman` driver, the Solarman dongle can be overwhelmed when co
 The following schdule overrides is recommended for Solarman:
 
 ```yaml
-SCHDULES:
+SCHEDULES:
 - KEY: W
   READ_EVERY: 15
   REPORT_EVERY: 60
